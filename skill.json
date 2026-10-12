@@ -1,0 +1,8 @@
+{
+  "name": "genpark-multi-step-agent-failure-root-cause-reconstructor-skill",
+  "version": "1.0.0",
+  "description": "Reconstructs multi-step agent execution trajectories to isolate the origin step of cascading tool failures",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
